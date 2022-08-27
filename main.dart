@@ -4,6 +4,8 @@ void main() {
     "Lname": "Agha",
     "age": 23,
     "nationallity": 'jordan',
-    "myEducatin": '',
+    "EducatinInfo": [
+      {"name": "yarmouk universty", "faculty": "IT", "year": 2022}
+    ],
   };
 }
